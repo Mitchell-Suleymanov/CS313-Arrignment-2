@@ -15,7 +15,7 @@ with every possible path and, maybe by the end of the semester, you'll know a pa
 you could use a computer to solve the maze for you, and have it show you the path to take.
 
 ======================================
-Design
+ Design
 
 1. You will write a Maze data type that can read in .maze files, and print them out in the same format. A graph can 
 represent a maze and there are many different ways to represent a graph in a computer program. You’ll use a simple 
@@ -97,7 +97,7 @@ files then you created a package. Create every .java file in the src folder of y
 9. Document and comment your code thoroughly.
 
 ======================================
-Grading Criteria
+ Grading Criteria
 
 The total project is worth 15 points, broken down as follows:
 If the program does not compile successfully then the grade for the assignment is zero.

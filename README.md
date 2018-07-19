@@ -1,4 +1,4 @@
-# CS313-Arrignment-2
+# CS313-Assignment-2
 Assignment 2 given in CS313: Data Structures
 
 Mazes Assignment

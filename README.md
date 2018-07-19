@@ -14,7 +14,7 @@ Or you could be strategic. Pick a path, follow it until it either doubles back o
 with every possible path and, maybe by the end of the semester, you'll know a path to your lecture! Alternatively, 
 you could use a computer to solve the maze for you, and have it show you the path to take.
 
-===========================================================================================================================
+======================================
 Design
 
 1. You will write a Maze data type that can read in .maze files, and print them out in the same format. A graph can 
@@ -96,7 +96,7 @@ files then you created a package. Create every .java file in the src folder of y
 
 9. Document and comment your code thoroughly.
 
-===========================================================================================================================
+======================================
 Grading Criteria
 
 The total project is worth 15 points, broken down as follows:
